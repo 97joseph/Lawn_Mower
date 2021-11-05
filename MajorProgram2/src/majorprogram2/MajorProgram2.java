@@ -12,7 +12,7 @@ import javax.swing.filechooser.FileSystemView;
 
 /**
  *
- * @author shayla
+ * @author name
  */
 public class MajorProgram2 {
 

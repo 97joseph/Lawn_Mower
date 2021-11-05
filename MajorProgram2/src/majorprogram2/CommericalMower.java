@@ -7,7 +7,7 @@ package majorprogram2;
 
 /**
  *
- * @author shayla
+ * @name
  */
 public class CommericalMower extends LawnTractor {
     

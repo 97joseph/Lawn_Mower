@@ -7,7 +7,7 @@ package majorprogram2;
 
 /**
  *
- * @author shayla
+ * @author name
  */
 public class Engine {
     

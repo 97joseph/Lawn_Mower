@@ -16,7 +16,7 @@ import javax.swing.filechooser.FileSystemView;
 
 /**
  *
- * @author shayla
+ * @author name
  */
 public class Menu extends javax.swing.JFrame {
     private MowerWareHouse list;

@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author shayla
+ * @author name
  */
 public class MowerWareHouse {
     
